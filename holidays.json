@@ -1,0 +1,56 @@
+[
+  {
+    "name": "International Women's Day",
+    "date": "2025-03-08",
+    "observed": "2025-03-10",
+    "public": true,
+    "country": "RU",
+    "uuid": "7d282213-caa7-400a-a413-401e29fb7ea8",
+    "weekday": {
+      "date": {
+        "name": "Saturday",
+        "numeric": "6"
+      },
+      "observed": {
+        "name": "Monday",
+        "numeric": "1"
+      }
+    }
+  },
+  {
+    "name": "March Equinox",
+    "date": "2025-03-20",
+    "observed": "2025-03-20",
+    "public": false,
+    "country": "RU",
+    "uuid": "bfdb4136-f6a2-444f-94f1-237132fee6bb",
+    "weekday": {
+      "date": {
+        "name": "Thursday",
+        "numeric": "4"
+      },
+      "observed": {
+        "name": "Thursday",
+        "numeric": "4"
+      }
+    }
+  },
+  {
+    "name": "Cultural Workers' Day",
+    "date": "2025-03-25",
+    "observed": "2025-03-25",
+    "public": false,
+    "country": "RU",
+    "uuid": "f2edfc44-d410-4937-b2de-3a07f810d866",
+    "weekday": {
+      "date": {
+        "name": "Tuesday",
+        "numeric": "2"
+      },
+      "observed": {
+        "name": "Tuesday",
+        "numeric": "2"
+      }
+    }
+  }
+]
