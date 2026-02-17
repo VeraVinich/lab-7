@@ -34,4 +34,3 @@ for i, h in enumerate(holidays, 1):
   if not holidays:
 
     print("В этом месяце нет праздников.\n")
-
